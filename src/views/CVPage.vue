@@ -212,6 +212,16 @@
         ],
         awards: [
           {
+            title: "Part III International Scholarship",
+            duration: "Oct. 2022 - Jum. 2023",
+            description: "The Scholarship is funded by the Faculty of Mathematics and the School of Physical Sciences (Value: £8,829)",
+          },
+          {
+            title: "Christ’s College Postgraduate Bursary",
+            duration: "Oct. 2022 - Jun. 2023",
+            description: "Awarded by the Christ’s College at University of Cambridge for the MASt in Mathematics (Value: £3000)",
+          },
+          {
             title: "German Academic Scholarship Foundation",
             duration: "Nov. 2019 - Present",
             description: "Awarded to students who are expected to make an outstanding contribution to society.",
@@ -255,11 +265,16 @@
             title: "Education",
             time_points: [
               {
-                date: "Sep. 2019 - present",
+                date: "Oct. 2022 - Jun. 2023",
+                title: "Master of Advanced Studies in Mathematics (University of Cambridge)",
+                description: ["Focusing on applied mathematics subjects, especially the combination of analysis and statistics"],
+              },
+              {
+                date: "Sep. 2019 - Sep. 2022",
                 title: "Bachelor of Science - Physics (ETH Zurich)",
                 description: [
-                  "Expected graduation in Sep. 2022 (average grade (so far): 5.75)",
-                  "In 6th semester extend mathematical and theoretical physics background through additional courses ipsum",
+                  "Expected graduation in Sep. 2022 (average grade: 5.8/6.0)",
+                  "Took additional classes in mathematics in physics (overall 210 ECTS / 180 ECTS)",
                   "Course representative in various courses. Participated in teaching assistant collaborations to improve teaching during the pandemic",
                 ],
               },
@@ -369,6 +384,15 @@
           {
             title: "Projects & Research Experience",
             time_points: [
+              {
+                date: "Aug. 2022 - Sep. 2022",
+                title: "Reading Course - black hole spacetimes in general relativity",
+                description: [
+                  "Supervised by Dr. Christoph Kehle",
+                  "Geometry and analysis of the solutions of the Einstein field equations",
+                  "Extending and writing out steps in proofs for the Birkhoff’s theorem left out in the script",
+                ],
+              },
               {
                 date: "Feb. 2022 - Jun. 2022",
                 title: "The Sugawara And Coset Construction Derived From The Vertex Operator Formalism",
